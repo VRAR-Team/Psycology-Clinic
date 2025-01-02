@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|c:\\users\\30946\\documents\\github\\psycology-clinic\\assets\\paradoxnotion\\nodecanvas\\modules\\dialoguetrees\\nodes\\statementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|solutionrelative:assets\\paradoxnotion\\nodecanvas\\modules\\dialoguetrees\\nodes\\statementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|c:\\users\\30946\\documents\\github\\psycology-clinic\\assets\\paradoxnotion\\nodecanvas\\modules\\dialoguetrees\\nodes\\multipleconditionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|solutionrelative:assets\\paradoxnotion\\nodecanvas\\modules\\dialoguetrees\\nodes\\multipleconditionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\assets\\dialogue\\npctalk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|solutionrelative:assets\\dialogue\\npctalk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\assets\\paradoxnotion\\nodecanvas\\modules\\dialoguetrees\\dialoguegui\\dialogueugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|solutionrelative:assets\\paradoxnotion\\nodecanvas\\modules\\dialoguetrees\\dialoguegui\\dialogueugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\assets\\dialogue\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|solutionrelative:assets\\dialogue\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatementNode.cs",
+              "DocumentMoniker": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\StatementNode.cs",
+              "RelativeDocumentMoniker": "Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\StatementNode.cs",
+              "ToolTip": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\StatementNode.cs",
+              "RelativeToolTip": "Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\StatementNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:46:53.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultipleConditionNode.cs",
+              "DocumentMoniker": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\MultipleConditionNode.cs",
+              "RelativeDocumentMoniker": "Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\MultipleConditionNode.cs",
+              "ToolTip": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\MultipleConditionNode.cs",
+              "RelativeToolTip": "Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\MultipleConditionNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:59:40.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DialogueUGUI.cs",
+              "DocumentMoniker": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\DialogueGUI\\DialogueUGUI.cs",
+              "RelativeDocumentMoniker": "Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\DialogueGUI\\DialogueUGUI.cs",
+              "ToolTip": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\DialogueGUI\\DialogueUGUI.cs",
+              "RelativeToolTip": "Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\DialogueGUI\\DialogueUGUI.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwFwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:34:08.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NpcTalk.cs",
+              "DocumentMoniker": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\Dialogue\\NpcTalk.cs",
+              "RelativeDocumentMoniker": "Assets\\Dialogue\\NpcTalk.cs",
+              "ToolTip": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\Dialogue\\NpcTalk.cs",
+              "RelativeToolTip": "Assets\\Dialogue\\NpcTalk.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:28:10.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HUD.cs",
+              "DocumentMoniker": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\Dialogue\\HUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Dialogue\\HUD.cs",
+              "ToolTip": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\Dialogue\\HUD.cs",
+              "RelativeToolTip": "Assets\\Dialogue\\HUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:26:19.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
