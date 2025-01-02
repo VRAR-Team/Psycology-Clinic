@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|solutionrelative:assets\\dialogue\\npctalk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\assets\\dialogue\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|solutionrelative:assets\\dialogue\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\assets\\paradoxnotion\\nodecanvas\\modules\\dialoguetrees\\dialoguegui\\dialogueugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|solutionrelative:assets\\paradoxnotion\\nodecanvas\\modules\\dialoguetrees\\dialoguegui\\dialogueugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\assets\\dialogue\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|solutionrelative:assets\\dialogue\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +30,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DialogueUGUI.cs",
               "DocumentMoniker": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\DialogueGUI\\DialogueUGUI.cs",
               "RelativeDocumentMoniker": "Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\DialogueGUI\\DialogueUGUI.cs",
               "ToolTip": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\DialogueGUI\\DialogueUGUI.cs",
               "RelativeToolTip": "Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\DialogueGUI\\DialogueUGUI.cs",
-              "ViewState": "AgIAAOIAAAAAAAAAAAAcwNYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwFwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T09:34:08.683Z"
+              "WhenOpened": "2025-01-02T09:34:08.683Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,22 +49,23 @@
               "RelativeDocumentMoniker": "Assets\\Dialogue\\NpcTalk.cs",
               "ToolTip": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\Dialogue\\NpcTalk.cs",
               "RelativeToolTip": "Assets\\Dialogue\\NpcTalk.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T09:28:10.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HUD.cs",
               "DocumentMoniker": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\Dialogue\\HUD.cs",
               "RelativeDocumentMoniker": "Assets\\Dialogue\\HUD.cs",
               "ToolTip": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\Dialogue\\HUD.cs",
               "RelativeToolTip": "Assets\\Dialogue\\HUD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T09:26:19.35Z"
+              "WhenOpened": "2025-01-02T09:26:19.35Z",
+              "EditorCaption": ""
             }
           ]
         }
