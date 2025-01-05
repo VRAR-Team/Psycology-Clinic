@@ -385,15 +385,21 @@ public class Dialogsystem1 : MonoBehaviour
                     result += $"{factor.Key}\n";
                 }
             }
+            
             Debug.Log(result);
-            if (result == "通过此问卷,你的初步评判结果为:\n")
-            {
-                result = "通过此问卷,你的初步评判结果为:\n 所有项目正常\n";
-            }
+           
+        }
+        if (result == "通过此问卷,你的初步评判结果为:\n")
+        {
+            textLabel.text = "通过此问卷,你的初步评判结果为:\n所有项目正常\n";
+        }
+        else
+        {
+            // 显示结果到 textLabel
+            textLabel.text = result;
         }
 
-        // 显示结果到 textLabel
-        textLabel.text = result;
+ 
 
         // 保存结果到指定路径的txt文件
         SaveToFile(result, filePath);
