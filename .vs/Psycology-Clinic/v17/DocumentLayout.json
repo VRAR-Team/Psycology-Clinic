@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|c:\\users\\30946\\documents\\github\\psycology-clinic\\assets\\paradoxnotion\\nodecanvas\\modules\\dialoguetrees\\nodes\\actionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|solutionrelative:assets\\paradoxnotion\\nodecanvas\\modules\\dialoguetrees\\nodes\\actionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\assets\\paradoxnotion\\nodecanvas\\modules\\dialoguetrees\\nodes\\statementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|solutionrelative:assets\\paradoxnotion\\nodecanvas\\modules\\dialoguetrees\\nodes\\statementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|c:\\users\\30946\\documents\\github\\psycology-clinic\\assets\\dialogue\\npctalk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\assets\\dialogue\\npctalk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|solutionrelative:assets\\dialogue\\npctalk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\assets\\paradoxnotion\\nodecanvas\\modules\\dialoguetrees\\nodes\\statementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|solutionrelative:assets\\paradoxnotion\\nodecanvas\\modules\\dialoguetrees\\nodes\\statementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|c:\\users\\30946\\documents\\github\\psycology-clinic\\assets\\dialogue\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|solutionrelative:assets\\dialogue\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|c:\\users\\30946\\documents\\github\\psycology-clinic\\assets\\brick project studio\\_bps basic assets\\common\\scripts and animations\\first person player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|solutionrelative:assets\\brick project studio\\_bps basic assets\\common\\scripts and animations\\first person player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|c:\\users\\30946\\documents\\github\\psycology-clinic\\assets\\paradoxnotion\\nodecanvas\\tasks\\conditions\\input\\checkkeyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|solutionrelative:assets\\paradoxnotion\\nodecanvas\\tasks\\conditions\\input\\checkkeyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|c:\\users\\30946\\documents\\github\\psycology-clinic\\assets\\paradoxnotion\\nodecanvas\\modules\\dialoguetrees\\nodes\\multiplechoicenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|solutionrelative:assets\\paradoxnotion\\nodecanvas\\modules\\dialoguetrees\\nodes\\multiplechoicenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\assets\\paradoxnotion\\nodecanvas\\modules\\dialoguetrees\\nodes\\actionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|solutionrelative:assets\\paradoxnotion\\nodecanvas\\modules\\dialoguetrees\\nodes\\actionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{860646EF-9F4D-F177-3C01-1DAC3AE98622}|Assembly-CSharp.csproj|C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\assets\\paradoxnotion\\nodecanvas\\modules\\dialoguetrees\\nodes\\multipleconditionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +58,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "PlayerInput.cs",
+              "DocumentMoniker": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\Dialogue\\PlayerInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Dialogue\\PlayerInput.cs",
+              "ToolTip": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\Dialogue\\PlayerInput.cs",
+              "RelativeToolTip": "Assets\\Dialogue\\PlayerInput.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:55:38.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckKeyboardInput.cs",
+              "DocumentMoniker": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\ParadoxNotion\\NodeCanvas\\Tasks\\Conditions\\Input\\CheckKeyboardInput.cs",
+              "RelativeDocumentMoniker": "Assets\\ParadoxNotion\\NodeCanvas\\Tasks\\Conditions\\Input\\CheckKeyboardInput.cs",
+              "ToolTip": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\ParadoxNotion\\NodeCanvas\\Tasks\\Conditions\\Input\\CheckKeyboardInput.cs",
+              "RelativeToolTip": "Assets\\ParadoxNotion\\NodeCanvas\\Tasks\\Conditions\\Input\\CheckKeyboardInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:43:26.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\Brick Project Studio\\_BPS Basic Assets\\Common\\Scripts and Animations\\First Person Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Brick Project Studio\\_BPS Basic Assets\\Common\\Scripts and Animations\\First Person Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\Brick Project Studio\\_BPS Basic Assets\\Common\\Scripts and Animations\\First Person Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Brick Project Studio\\_BPS Basic Assets\\Common\\Scripts and Animations\\First Person Player\\PlayerMovement.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAywDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:34:17.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ActionNode.cs",
               "DocumentMoniker": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\ActionNode.cs",
               "RelativeDocumentMoniker": "Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\ActionNode.cs",
@@ -50,24 +105,24 @@
               "RelativeToolTip": "Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\ActionNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T02:38:24.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T02:38:24.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "StatementNode.cs",
               "DocumentMoniker": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\StatementNode.cs",
               "RelativeDocumentMoniker": "Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\StatementNode.cs",
               "ToolTip": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\StatementNode.cs",
               "RelativeToolTip": "Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\StatementNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T13:46:53.177Z"
+              "WhenOpened": "2025-01-02T13:46:53.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "MultipleConditionNode.cs",
               "DocumentMoniker": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\MultipleConditionNode.cs",
               "RelativeDocumentMoniker": "Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\MultipleConditionNode.cs",
@@ -79,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "DialogueUGUI.cs",
               "DocumentMoniker": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\DialogueGUI\\DialogueUGUI.cs",
               "RelativeDocumentMoniker": "Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\DialogueGUI\\DialogueUGUI.cs",
@@ -97,7 +152,7 @@
               "RelativeDocumentMoniker": "Assets\\Dialogue\\NpcTalk.cs",
               "ToolTip": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\Dialogue\\NpcTalk.cs",
               "RelativeToolTip": "Assets\\Dialogue\\NpcTalk.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T09:28:10.184Z",
               "EditorCaption": ""
@@ -105,6 +160,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "MultipleChoiceNode.cs",
+              "DocumentMoniker": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\MultipleChoiceNode.cs",
+              "RelativeDocumentMoniker": "Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\MultipleChoiceNode.cs",
+              "ToolTip": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\MultipleChoiceNode.cs",
+              "RelativeToolTip": "Assets\\ParadoxNotion\\NodeCanvas\\Modules\\DialogueTrees\\Nodes\\MultipleChoiceNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:32:19.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "HUD.cs",
               "DocumentMoniker": "C:\\Users\\30946\\Documents\\GitHub\\Psycology-Clinic\\Assets\\Dialogue\\HUD.cs",
               "RelativeDocumentMoniker": "Assets\\Dialogue\\HUD.cs",
