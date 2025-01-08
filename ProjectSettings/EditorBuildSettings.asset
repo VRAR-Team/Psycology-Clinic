@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Brick Project Studio/Apartment Kit/Scenes/Scene_01.unity
+    guid: 4f80debdb52c166478997e1d2b329e3c
   m_configObjects: {}
